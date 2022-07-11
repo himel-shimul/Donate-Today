@@ -1,0 +1,262 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.header {
+    text-align: center;
+    background-image: url(images/donation9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    color: aliceblue;
+    padding-top: 250px;
+    margin: auto;
+    text-transform: capitalize;
+}
+
+.slogan {
+    width: 70%;
+    margin: auto;
+}
+
+.header h1 {
+    text-align: center;
+    font-size: 60px;
+    margin: auto;
+    width: 83%;
+}
+
+.slogan p {
+    width: 60%;
+    margin: auto;
+    padding-bottom: 65px;
+}
+
+.btn {
+    border: 1px solid hsl(345, 91%, 57%);
+    background-color: rgb(243, 64, 57);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+.donate-today {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+.donate {
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+
+.donate h2 {
+    font-size: 50px;
+}
+
+.donate p {
+    color: #b9b7b7;
+    font-size: 20px;
+    width: 70%;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+.money-box {
+    text-align: center;
+    width: 55%;
+    margin: auto;
+    display: flex;
+    padding-bottom: 50px;
+}
+
+.money {
+    height: 85px;
+    width: 23%;
+    background-color: rgba(243, 243, 243, 0.301);
+    padding-top: 48px;
+    border: 4px solid rgba(243, 243, 243, 0.301);
+    border-radius: 3px;
+    margin: 10px;
+    font-size: 30px;
+}
+
+.money-2nd {
+    color: rgb(243, 64, 57);
+    height: 85px;
+    width: 23%;
+    background-color: #f837155e;
+    padding-top: 48px;
+    border: 4px solid rgb(243, 64, 57);
+    border-radius: 3px;
+    margin: 10px;
+    font-size: 30px;
+}
+
+.button-taka {
+    width: 70%;
+    margin: auto;
+}
+
+.button-taka h3 {
+    color: #b9b7b7;
+    font-weight: 100;
+}
+
+.button-taka hr {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid #cccccc;
+}
+
+.donate-box {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.box-design {
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+
+
+.box {
+    background-color: antiquewhite;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 65px;
+    padding-bottom: 15px;
+    margin-right: 25px;
+    height: 260px;
+    border-radius: 4px;
+}
+
+.box-1 {
+    background-color: rgba(205, 243, 255, 0.425);
+}
+
+.box-2 {
+    background-color: antiquewhite;
+}
+
+.box-3 {
+    background-color: rgba(255, 214, 126, 0.507);
+}
+
+
+.box img {
+    width: 20%;
+}
+
+.box p {
+    color: #8d8d8d;
+    font-size: 19px;
+    padding-bottom: 50px;
+}
+
+.live {
+    display: flex;
+    width: 75%;
+    margin: auto;
+    padding-bottom: 80px;
+    padding-left: 105px;
+}
+
+.live h1 {
+    padding-top: 50px;
+    font-size: 40px;
+    width: 70%;
+}
+
+.live p {
+    width: 70%;
+    color: #8d8d8d;
+    font-size: 19px;
+    padding-bottom: 30px;
+}
+
+.live img {
+    width: 70%;
+    height: auto;
+    padding-top: 20px;
+}
+
+.depend {
+    width: 50%;
+}
+
+.imgg {
+    margin-top: 65px;
+    margin-bottom: 50px;
+    height: 500px;
+    width: 400px;
+    background-image: url(images/donation11.jpg);
+    background-repeat: no-repeat;
+}
+
+.imgg-2 {
+    margin-top: 65px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    height: 500px;
+    width: 450px;
+    background-image: url(images/donation11.jpg);
+    background-repeat: no-repeat;
+}
+
+.input {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+
+.survive {
+    width: 50%;
+    padding-left: 95px;
+}
+
+.inpt {
+    background-color: #dbdbdb9d;
+    height: 33px;
+    width: 247px;
+    border-radius: 5px 0 0 5px;
+    margin-right: -5px;
+    border: 1px solid #dbdbdb9d;
+    padding-left: 10px;
+}
+
+.butn {
+    padding: 10px 45px;
+    border-radius: 0 5px 5px 0;
+    background-color: rgb(243, 64, 57);
+    border: 1px solid rgb(243, 64, 57);
+    color: white;
+}
+
+.input-button {
+    width: 60%;
+    margin: auto;
+    height: 200px;
+    padding-top: 130px;
+    background-color: antiquewhite;
+}
+
+.footer {
+    text-align: center;
+    background-color: #1d1d1d;
+    color: white;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.footer h1 {
+    font-family: 'Lobster', cursive;
+    color: rgb(243, 64, 57);
+}
